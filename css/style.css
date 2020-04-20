@@ -259,6 +259,7 @@ ol {
 }
 
 .hero-content{
+  padding-top: 70px;
   position:relative;
   z-index: 9999;
 }
